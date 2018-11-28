@@ -126,6 +126,12 @@ body,
   border: none !important;
   box-shadow: none !important;
 }
+.mockup {
+  height: auto;
+  width: 35%;
+  border: none !important;
+  box-shadow: none !important;
+}
 ul {
   list-style: none;
 }
